@@ -2,7 +2,7 @@
 
 Original script [GitHub kirumbik pages](https://gist.github.com/kirumbik/48a2b404cfbcd35b3aba9acbc56ba226)
 
-##Usage
+## Usage
 Let's pretend you have directory contest where you store contest code. Place run_tests.sh script in root of contest directory.
 Place tests near you go code:
 ```
@@ -25,9 +25,10 @@ After that run:
 ```./run_tests.sh ./b/main.go```
 
 You will see each test running:
-![src_img2](https://github.com/xloroff/run_tests/assets/11439553/191b30e6-6907-4a04-93f3-3713e0254321)
 
-##MacOS info
+![](https://github.com/xloroff/run_tests/assets/11439553/191b30e6-6907-4a04-93f3-3713e0254321)
+
+### MacOS info
 
 - install homebrew
 - brew install dos2unix

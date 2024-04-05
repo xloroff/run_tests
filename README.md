@@ -31,9 +31,9 @@ You will see each test running:
 ### MacOS info
 
 - install homebrew
-- brew install dos2unix
-- brew install diffutils
-- brew install coreutils
+- ```brew install dos2unix```
+- ```brew install diffutils```
+- ```brew install coreutils```
 - add gnubin into your PATH variable
 ```PATH="/usr/local/opt/coreutils/libexec/gnubin:$PATH"```
 or check

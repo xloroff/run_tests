@@ -25,9 +25,9 @@ After that run:
 ```./run_tests.sh ./b/main.go```
 
 You will see each test running:
-![src_img2](https://gist.github.com/assets/11439553/7216b60c-cc29-45be-a640-f57b85a53bb3)
+![src_img2](https://github.com/xloroff/run_tests/assets/11439553/191b30e6-6907-4a04-93f3-3713e0254321)
 
-###MacOS info
+##MacOS info
 
 - install homebrew
 - brew install dos2unix

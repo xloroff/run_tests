@@ -1,6 +1,6 @@
 # Route 365 or Codeforces Test tool (Linux, MacOS)
 
-Original script [GitHub kirumbik pages](https://gist.github.com/kirumbik/48a2b404cfbcd35b3aba9acbc56ba226)
+Original script [GitHub kirumbik pages](https://gist.github.com/kirumbik/48a2b404cfbcd35b3aba9acbc56ba226) with some small update
 
 ## Usage
 Let's pretend you have directory contest where you store contest code. Place run_tests.sh script in root of contest directory.
